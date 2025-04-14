@@ -28,7 +28,7 @@ Dukungan dan kontribusi dari komunitas sangat diapresiasi! 💖
 
 ## 📦 Instalasi
 
-Pastikan **Node.js ≥ 14.0** sudah terpasang.  
+Pastikan **Node.js ≥ 14.0** sudah terpasang,
 Kemudian jalankan perintah berikut di terminal:
 
 ```sh
