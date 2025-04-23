@@ -283,8 +283,5 @@ Kami menyambut kontribusi dari siapa saja! Jika ingin membantu:
 
 ---
 
-🚀 **Semoga kamu suka & semangat ngoding!** 🎉# Baileys
-# Baileys
-# Baileys
-# Baileys
+🚀 **Semoga kamu suka & semangat ngoding!** 🎉
 # Baileys
