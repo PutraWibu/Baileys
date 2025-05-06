@@ -18,7 +18,7 @@
   "url": "https://github.com/kagenoureal/baileys.git"
 },
   "license": "MIT",
-  "author": "JustKagenou",
+  "author": "PutraMods",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
