@@ -66,7 +66,7 @@ yarn add @PutraWibu/baileys
 ```
 Jika anda menggunakan **Panel**:
 ```sh 
-npm install "wishsocket/baileys":"github:PutraWibu/baileys"
+npm install "whiskeysocket/baileys" : "github: PutraWibu/Baileys"
 ```
 # bisa di startup / package
 ---
