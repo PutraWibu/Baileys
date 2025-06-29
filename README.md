@@ -1,13 +1,13 @@
-<p align="center">
-  <img src="https://files.catbox.moe/ehzf6s.jpeg" alt="Thumbnail" />
-</p>
 # 📚 Hi users! 
 ## 💫 Baca ini 
 👋🏻 Hii saya Putramods, saya Mengambangkan Baileys ini karena gabut saja, Saya tidak ingin mengklaim bahwa ini adalah hasil usaha saya, ini adalah baileys ori dari @KagenouReal
 --
 🔓 Jika ingin mengunjungi kreator silahkan lihat https;//github/KagenouReal/baileys
 ---
-
+<p align="center">
+  <img src="https://files.catbox.moe/ehzf6s.jpeg" alt="Thumbnail" />
+</p>
+----
 # 🚀 Baileys WhatsApp API 
 
 ![GitHub stars](https://img.shields.io/github/stars/PutraWibu/Baileys?style=social)
